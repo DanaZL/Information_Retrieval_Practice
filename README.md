@@ -7,4 +7,4 @@ Sekitei             | Algorithm of focusing web crawler (Extract features, clust
 Antispam  | Defining spam based on Deep Belief Network, pretrained RBM
 Indexing | Constructing the inverted index and implementation simple boolean search
 Minshingle | Algorithm of defining duplicates based on minshingles
-Bootstraping| The Bootstrap procedure for evaluation 2 split in A/B test
+Bootstraping| The Bootstrap procedure for evaluation 2 splits in A/B test
